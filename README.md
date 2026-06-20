@@ -10,35 +10,6 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-```python
-class Vishaal:
-    name        = "Vishaal Thennarasu"
-    location    = "Chennai, Tamil Nadu, India 🇮🇳"
-    degree      = "B.Tech CSE @ SRMIST (CGPA: 8.24 | 2024–2028)"
-    email       = "vishaalthennarasu44@gmail.com"
-    github      = "github.com/Vishaal44LM"
-    linkedin    = "linkedin.com/in/vishaal-thennarasu-51a541326"
-
-    stack = [
-        "Python", "TypeScript", "React", "Node.js",
-        "Flask", "PyTorch", "PostgreSQL", "LLM APIs"
-    ]
-
-    currently_learning = [
-        "Advanced Prompt Engineering",
-        "MLOps & Model Deployment",
-        "System Design"
-    ]
-
-    fun_fact = "Ranked 4th out of 62 teams at GEO HACK 1.0 🚀"
-
-    def motto(self):
-        return "Ship fast. Learn faster. Build things that matter."
-```
-
----
 
 ## 🛠️ Tech Stack
 
